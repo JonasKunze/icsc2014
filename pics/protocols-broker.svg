@@ -14,7 +14,7 @@
    height="321.71567"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="protocols-broker.svg"
    style="display:inline">
   <defs
@@ -11299,18 +11299,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6510943"
-     inkscape:cx="242.92676"
-     inkscape:cy="165.95412"
+     inkscape:zoom="2.335"
+     inkscape:cx="226.14019"
+     inkscape:cy="162.60692"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g5232"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1098"
+     inkscape:window-width="1916"
+     inkscape:window-height="1106"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -11423,8 +11423,14 @@
          inkscape:connector-curvature="0"
          inkscape:connector-type="polyline"
          id="path8332"
-         d="M 0,0 0,0"
+         d="m -33.178412,-4e-7 0,0"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path8330-1"
+         d="m 446.53228,249.53316 -268.31805,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0;display:inline" />
       <g
          transform="translate(-0.25510979,11.988546)"
          id="g6133">
@@ -11689,7 +11695,7 @@
          sodipodi:role="line"
          x="0.47515008"
          y="120.31386"
-         id="tspan5177"></tspan><tspan
+         id="tspan5177" /><tspan
          sodipodi:role="line"
          x="0.47514999"
          y="160.30302"
@@ -11717,7 +11723,7 @@
          sodipodi:role="line"
          id="tspan5185"
          x="-10.901861"
-         y="81.874733"></tspan><tspan
+         y="81.874733" /><tspan
          sodipodi:role="line"
          id="tspan5187"
          x="-10.901861"
