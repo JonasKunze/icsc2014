@@ -641,13 +641,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="244.88787"
-     inkscape:cy="122.75635"
+     inkscape:cx="339.10734"
+     inkscape:cy="176.16507"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-9"
      width="1043.19px"
      height="897.36px"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1098"
      inkscape:window-x="0"
@@ -1310,7 +1310,7 @@
            y="213.16031"
            x="392.45187"
            id="tspan2951-0"
-           sodipodi:role="line">Window wize</tspan></text>
+           sodipodi:role="line">Window size</tspan></text>
       <rect
          y="196.32973"
          x="32.290249"
@@ -1545,14 +1545,14 @@
          transform="matrix(0,-1,1,0,0,0)"
          sodipodi:linespacing="80.000001%"
          id="text2949-1-8-6-3-31"
-         y="163.71089"
-         x="-209.01198"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         y="163.35439"
+         x="-208.99883"
+         style="font-size:10.9315815px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
          xml:space="preserve"><tspan
            id="tspan4011-8"
-           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans"
-           y="163.71089"
-           x="-209.01198"
+           style="font-size:10.02061653px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans"
+           y="163.35439"
+           x="-208.99883"
            sodipodi:role="line">CWR</tspan></text>
       <text
          transform="matrix(0,-1,1,0,0,0)"
