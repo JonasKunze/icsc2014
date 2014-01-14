@@ -1,0 +1,19 @@
+reset
+
+outfile='udp-tcp-latency'
+
+set title "UDP vs TCP round trip times"
+set yrange [50:120]
+set xrange [0:1100]
+set xlabel "Chunk size [B]"
+set ylabel 'Latency [$\mu s$]'
+plot './udp-latency.dat' using 1:2 title "UDP", './tcp-latency.dat' using 1:2 title "TCP", './tcp-latency-nodelay.dat' using 1:2 title "TCP nodelay"
+
+
+set term push
+#set term epslatex standalone color solid 8 
+set terminal svg size 350,262 fname 'Verdana' fsize 10
+#set term epslatex color  dashed size 5*1.2,3*1.1
+set out sprintf('%s.tex',outfile)
+
+plot './udp-latency.dat' using 1:2 title "UDP", './tcp-latency.dat' using 1:2 title "TCP", './tcp-latency-nodelay.dat' using 1:2 title "TCP nodelay"
