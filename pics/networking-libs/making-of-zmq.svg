@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="404.20593"
-   height="242.03937"
+   width="397.17645"
+   height="256.00812"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="making-of-zmq.svg">
   <defs
      id="defs4">
     <marker
@@ -40,7 +40,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="180.49624"
+     inkscape:cx="92.281954"
      inkscape:cy="65.316283"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,26 +70,26 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-316.75,-142.28125)">
+     transform="translate(-316.75,-128.3125)">
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.89199996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3018"
        width="118.09595"
        height="63.874199"
        x="317.69296"
-       y="143.22488"
+       y="145.32498"
        ry="9.0913725" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="328.29562"
-       y="181.87244"
+       y="183.97253"
        id="text3788"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3790"
          x="328.29562"
-         y="181.87244"
+         y="183.97253"
          style="font-size:18px">TCP Socket</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1.89199996;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -97,19 +97,19 @@
        width="135.59595"
        height="96.017067"
        x="516.3092"
-       y="143.28223"
+       y="129.25356"
        ry="9.0913725" />
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="529.94897"
-       y="196.98167"
+       y="182.953"
        id="text3810"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3812"
          x="529.94897"
-         y="196.98167"
+         y="182.953"
          style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">ØMQ socket</tspan></text>
     <text
        xml:space="preserve"
@@ -125,13 +125,13 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="666.42859"
+       x="659.39911"
        y="214.50505"
        id="text3818"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3820"
-         x="666.42859"
+         x="659.39911"
          y="214.50505">POW!!</tspan></text>
     <text
        xml:space="preserve"
@@ -165,7 +165,7 @@
          sodipodi:role="line"
          id="tspan3832"
          x="318.57144"
-         y="358.07648">Illegal ratioisotopes from</tspan><tspan
+         y="358.07648">Illegal radioisotopes from</tspan><tspan
          sodipodi:role="line"
          x="318.57144"
          y="380.57648"
@@ -189,7 +189,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 434.64286,175.21932 66.42857,0"
+       d="m 434.64286,177.26209 66.42857,0"
        id="path3842"
        inkscape:connector-curvature="0" />
     <text
