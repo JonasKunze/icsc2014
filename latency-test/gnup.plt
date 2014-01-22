@@ -9,6 +9,7 @@ set xlabel "Chunk size [B]"
 set ylabel 'Latency [$\mu s$]'
 plot './udp-latency.dat' using 1:2 title "UDP", './tcp-latency.dat' using 1:2 title "TCP", './tcp-latency-nodelay.dat' using 1:2 title "TCP nodelay"
 
+exit
 
 set term push
 set term epslatex standalone color solid 8 
