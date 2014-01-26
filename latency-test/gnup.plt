@@ -4,7 +4,7 @@ outfile='udp-tcp-latency-local'
 
 set title "UDP vs TCP round trip times"
 
-set yrange [*:*]
+set yrange [*:140]
 set xrange [0:*]
 
 set xlabel "Chunk size [B]"
