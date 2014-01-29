@@ -14,7 +14,7 @@ plot './udp-latency.local.dat' using 1:2 title "UDP", './tcp-latency.local.dat' 
 
 
 set term push
-set term epslatex standalone color solid 8 
+set term epslatex standalone color solid 8 size 3.5,2.5
 #set term epslatex color  dashed size 5*1.2,3*1.1
 set out sprintf('%s.tex',outfile)
 
