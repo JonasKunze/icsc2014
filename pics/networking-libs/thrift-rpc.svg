@@ -151,20 +151,20 @@
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="446.87799"
-       y="286.92499"
+       y="301.77777"
        id="text3063"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3065"
          x="446.87799"
-         y="286.92499">ThriftServiceServer.cpp</tspan></text>
+         y="301.77777">ThriftServiceServer.cpp</tspan></text>
     <rect
        style="fill:none;stroke:#0b9898;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3138-5-7"
        width="274.15509"
        height="76.232742"
        x="437.72916"
-       y="242.73929"
+       y="257.59207"
        ry="16.077032" />
     <text
        xml:space="preserve"
@@ -181,13 +181,13 @@
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="49.040184"
-       y="297.98969"
+       y="301.77777"
        id="text3055"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan3057"
          x="49.040184"
-         y="297.98969">ThriftServiceClient.cpp</tspan></text>
+         y="301.77777">ThriftServiceClient.cpp</tspan></text>
     <rect
        style="fill:none;stroke:#9c1007;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3138-6-8"
@@ -202,7 +202,7 @@
        width="274.15509"
        height="76.232742"
        x="36.668694"
-       y="253.80399"
+       y="257.59207"
        ry="16.077032" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
@@ -225,13 +225,13 @@
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="345.71429"
-       y="290.93359"
+       y="303.71674"
        id="text5461"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5463"
          x="345.71429"
-         y="290.93359">RPC</tspan></text>
+         y="303.71674">RPC</tspan></text>
     <rect
        style="fill:none;stroke:#9c1007;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3138-6-8-8"
