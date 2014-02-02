@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="pubsub.svg"
-   style="display:inline">
+   style="display:inline"
+   inkscape:export-filename="/home/kunzejo/git/iCSC14/pics/networking-libs/pubsub.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <defs
      id="defs4">
     <linearGradient
@@ -11746,7 +11749,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.3021887"
-     inkscape:cx="93.934595"
+     inkscape:cx="94.540254"
      inkscape:cy="87.068857"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -11779,7 +11782,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

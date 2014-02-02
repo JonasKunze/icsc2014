@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="n-m-pipeline.svg"
-   style="display:inline">
+   style="display:inline"
+   inkscape:export-filename="/home/kunzejo/git/iCSC14/pics/networking-libs/n-m-pipeline.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <defs
      id="defs4">
     <linearGradient
@@ -11994,9 +11997,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.6043776"
-     inkscape:cx="213.09374"
-     inkscape:cy="115.11929"
+     inkscape:zoom="1.1675"
+     inkscape:cx="273.65811"
+     inkscape:cy="115.60106"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -12030,7 +12033,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12355,7 +12358,7 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:2.0786407px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);display:inline"
-       d="M 226.33347,7.7867575 84.792174,-41.174383"
+       d="M 222.85093,6.2726103 110.4881,-33.465604"
        id="path5463-5-2"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"

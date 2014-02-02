@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="broker-pipeline.svg"
-   style="display:inline">
+   style="display:inline"
+   inkscape:export-filename="/home/kunzejo/git/iCSC14/pics/networking-libs/eps/broker-pipeline.png"
+   inkscape:export-xdpi="180.10046"
+   inkscape:export-ydpi="180.10046">
   <defs
      id="defs4">
     <linearGradient
@@ -12094,7 +12097,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1675"
-     inkscape:cx="233.55959"
+     inkscape:cx="235.27265"
      inkscape:cy="3.5082279"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -12129,7 +12132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12546,7 +12549,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend-8-3);display:inline"
-       d="m 214.21071,124.32433 -106.14935,0"
+       d="m 210.21071,124.32433 -76.14935,0"
        id="path8518"
        inkscape:connector-type="polyline"
        inkscape:connector-curvature="0"
