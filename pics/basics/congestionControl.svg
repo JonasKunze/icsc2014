@@ -14,7 +14,7 @@
    height="394.28247"
    id="svg3589"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="congestionControl.svg">
   <defs
      id="defs3591">
@@ -11327,7 +11327,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="267.25424"
+     inkscape:cx="268.26439"
      inkscape:cy="223.08804"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -11336,8 +11336,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1916"
-     inkscape:window-height="1106"
+     inkscape:window-width="1680"
+     inkscape:window-height="948"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1" />
@@ -11372,11 +11372,11 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#006699;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 58.083771,345.79515 25.253814,-35.86042 23.233505,-66.16499 24.74874,-135.86552 99.50003,-67.17514 22.99376,304.71883 24.4962,-33.74541 24.62246,-67.93276 98.48987,-66.67007"
+       d="m 58.083771,345.79515 25.253814,-35.86042 23.233505,-66.16499 24.74874,-135.86552 99.50003,-67.17514 22.99376,304.71883 24.4962,-33.74541 24.62246,-67.93276 24.61718,-33.2149 74.37777,-49.61761"
        id="path18596"
        inkscape:connector-curvature="0"
        transform="translate(78.360749,223.49651)"
-       sodipodi:nodetypes="ccccccccc" />
+       sodipodi:nodetypes="cccccccccc" />
     <path
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1.78626585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 119.08724,332.62886 149.02276,0"
@@ -11414,8 +11414,8 @@
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
        sodipodi:linespacing="125%">20</text>
     <text
-       x="454.86792"
-       y="462.21457"
+       x="474.86792"
+       y="428.21457"
        id="text186"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans"
        sodipodi:linespacing="125%">Threshold</text>
@@ -11451,7 +11451,7 @@
     </text>
     <path
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1.78626585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 355.79404,467.64504 149.02277,0"
+       d="m 355.79404,433.64504 149.02277,0"
        id="path4357"
        inkscape:connector-curvature="0" />
     <g
@@ -11595,7 +11595,7 @@
        cx="435.681"
        cy="307.76099"
        r="2.691"
-       transform="matrix(0.89313287,0,0,0.89313287,17.225374,175.23648)"
+       transform="matrix(0.89313287,0,0,0.89313287,17.225374,159.23648)"
        id="circle312_10_"
        style="font-size:13.43585014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#006699;stroke-width:2.80310011;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
        sodipodi:cx="435.681"
@@ -11630,7 +11630,7 @@
        cx="408.12299"
        cy="345.64899"
        r="2.691"
-       transform="matrix(0.89313287,0,0,0.89313287,115.54692,91.560289)"
+       transform="matrix(0.89313287,0,0,0.89313287,115.54692,75.560289)"
        id="circle312_9_-8"
        style="font-size:13.43585014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#006699;stroke-width:2.80310011;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
        sodipodi:cx="408.12299"
@@ -11642,7 +11642,7 @@
        cx="408.12299"
        cy="345.64899"
        r="2.691"
-       transform="matrix(0.89313287,0,0,0.89313287,91.720936,107.61091)"
+       transform="matrix(0.89313287,0,0,0.89313287,91.720936,91.61091)"
        id="circle312_9_-5"
        style="font-size:13.43585014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#006699;stroke-width:2.80310011;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
        sodipodi:cx="408.12299"
@@ -11654,7 +11654,7 @@
        cx="408.12299"
        cy="345.64899"
        r="2.691"
-       transform="matrix(0.89313287,0,0,0.89313287,66.640602,124.56663)"
+       transform="matrix(0.89313287,0,0,0.89313287,66.640602,108.56663)"
        id="circle312_9_-3"
        style="font-size:13.43585014px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#006699;stroke-width:2.80310011;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
        sodipodi:cx="408.12299"
