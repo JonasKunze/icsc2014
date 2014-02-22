@@ -10,12 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="483.87021"
-   height="394.28247"
+   width="494.33783"
+   height="394.33911"
    id="svg3589"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="congestionControl.svg">
+   sodipodi:docname="congestionControl.svg"
+   inkscape:export-filename="/home/kunzejo/git/icsc2014/pics/basics/congestionControl.png"
+   inkscape:export-xdpi="189.9063"
+   inkscape:export-ydpi="189.9063">
   <defs
      id="defs3591">
     <marker
@@ -11326,9 +11329,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="268.26439"
-     inkscape:cy="223.08804"
+     inkscape:zoom="1.4"
+     inkscape:cx="315.21197"
+     inkscape:cy="194.09937"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -11357,7 +11360,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-78.360749,-223.49651)">
+     transform="translate(-67.893112,-223.49651)">
     <path
        d="m 110.74424,234.10385 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.60001,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m 24.6,-369.39854 0,369.39854 m -418.20001,-357.39854 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0 m -433.12021,17 433.12021,0"
        style="fill:none;stroke:#dedede;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -11379,79 +11382,87 @@
        sodipodi:nodetypes="cccccccccc" />
     <path
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1.78626585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 119.08724,332.62886 149.02276,0"
+       d="m 111.08724,332.62886 111.91637,0"
        id="path4357-3"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        x="-530.31342"
        y="84.183189"
        transform="matrix(-4.371139e-8,-1,1,-4.371139e-8,0,0)"
        id="text60"
-       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%" />
     <text
-       x="96.584602"
-       y="522.24219"
+       x="107.62933"
+       y="520.95648"
        id="text152"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%">5</text>
     <text
-       x="93.706337"
-       y="437.63556"
+       x="107.27776"
+       y="436.34985"
        id="text154"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%">10</text>
     <text
-       x="93.706337"
-       y="353.52847"
+       x="107.62933"
+       y="352.24277"
        id="text156"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%">15</text>
     <text
-       x="93.706337"
-       y="268.92188"
+       x="107.27776"
+       y="267.63617"
        id="text158"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%">20</text>
     <text
-       x="474.86792"
+       x="528.86792"
        y="428.21457"
        id="text186"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%">Threshold</text>
     <text
-       x="124.43132"
-       y="328.32193"
+       x="204.43132"
+       y="326.32193"
        id="text206"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%">Threshold</text>
     <text
-       x="-19.4389"
-       y="383.00562"
+       x="183.27336"
+       y="272.32086"
        transform="matrix(0.82586118,-0.56387349,0.56387349,0.82586118,0,0)"
        id="text84"
-       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-       sodipodi:linespacing="125%">Congestion Avoidance</text>
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       sodipodi:linespacing="125%" />
     <text
-       x="315.31793"
-       y="268.40869"
+       x="95.600342"
+       y="407.06238"
+       transform="matrix(0.82586118,-0.56387349,0.56387349,0.82586118,0,0)"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       sodipodi:linespacing="125%"
+       id="text5181">Avoidance</text>
+    <text
+       x="445.31793"
+       y="254.12299"
        id="text92"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%">Timeout (Segment dropped)</text>
     <text
-       x="-447.2402"
-       y="254.14197"
+       x="-387.89841"
+       y="249.04301"
        transform="matrix(0.18080354,-0.98351923,0.98351923,0.18080354,0,0)"
        id="text266"
-       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
        sodipodi:linespacing="125%">
       <tspan
-         style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
          id="tspan4396">Slow Start</tspan>
     </text>
     <path
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1.78626585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 355.79404,433.64504 149.02277,0"
+       d="m 383.79404,433.64504 149.02277,0"
        id="path4357"
        inkscape:connector-curvature="0" />
     <g
@@ -11605,19 +11616,19 @@
        d="m 438.372,307.76099 c 0,1.48619 -1.2048,2.691 -2.691,2.691 -1.4862,0 -2.691,-1.20481 -2.691,-2.691 0,-1.4862 1.2048,-2.691 2.691,-2.691 1.4862,0 2.691,1.2048 2.691,2.691 z" />
     <text
        xml:space="preserve"
-       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="-380.2532"
-       y="87.477936"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-240.2532"
+       y="80.049362"
        id="text2939"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan2941"
-         x="-380.2532"
-         y="87.477936">Congestion Window (MSS)</tspan></text>
+         x="-240.2532"
+         y="80.049362">Congestion Window (MSS)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
        x="562.83551"
        y="617.60907"
        id="text2943"
@@ -11662,5 +11673,12 @@
        sodipodi:rx="2.691"
        sodipodi:ry="2.691"
        d="m 410.81399,345.64899 c 0,1.4862 -1.20481,2.691 -2.691,2.691 -1.4862,0 -2.691,-1.2048 -2.691,-2.691 0,-1.4862 1.2048,-2.691 2.691,-2.691 1.48619,0 2.691,1.2048 2.691,2.691 z" />
+    <text
+       x="96.050591"
+       y="386.61139"
+       transform="matrix(0.82586118,-0.56387349,0.56387349,0.82586118,0,0)"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       sodipodi:linespacing="125%"
+       id="text5181-2">Congestion</text>
   </g>
 </svg>
